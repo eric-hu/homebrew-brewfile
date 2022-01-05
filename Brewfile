@@ -19,6 +19,9 @@ cask "bitwarden"
 cask "visual-studio-code"
 
 # Tiling window manager
+# Deprecated. Consider alternatives Hammerspoon or https://github.com/rxhanson/Rectangle
+# Cycle window sizes using:
+#   defaults write org.shiftitapp.ShiftIt multipleActionsCycleWindowSizes YES
 cask "shiftit"
 
 cask "zoom"
