@@ -25,3 +25,6 @@ cask "visual-studio-code"
 cask "shiftit"
 
 cask "zoom"
+
+# Clipboard manager
+cask "flycut"
