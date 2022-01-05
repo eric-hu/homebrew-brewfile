@@ -17,4 +17,8 @@ cask "discord"
 cask "iterm2"
 cask "bitwarden"
 cask "visual-studio-code"
+
+# Tiling window manager
 cask "shiftit"
+
+cask "zoom"
