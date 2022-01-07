@@ -8,6 +8,7 @@ tap "homebrew/cask"
 
 # 'brew install'
 brew "neovim"
+brew "tmux"
 
 # 'brew install --cask'
 cask "google-chrome"
@@ -28,3 +29,6 @@ cask "zoom"
 
 # Clipboard manager
 cask "flycut"
+
+# Battery life manager
+cask "aldente"
