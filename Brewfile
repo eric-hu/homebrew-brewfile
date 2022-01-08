@@ -9,6 +9,7 @@ tap "homebrew/cask"
 # 'brew install'
 brew "neovim"
 brew "tmux"
+brew "the_silver_searcher"
 
 # 'brew install --cask'
 cask "google-chrome"
