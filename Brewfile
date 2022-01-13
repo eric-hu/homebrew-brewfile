@@ -10,6 +10,10 @@ tap "homebrew/cask"
 brew "neovim"
 brew "tmux"
 brew "the_silver_searcher"
+# Version manager for Ruby, Node, Elixir, and other langs
+brew "asdf"
+brew "postgresql"
+brew "gh"
 
 # 'brew install --cask'
 cask "google-chrome"
@@ -33,3 +37,5 @@ cask "flycut"
 
 # Battery life manager
 cask "aldente"
+
+cask "slack"
