@@ -39,3 +39,5 @@ cask "flycut"
 cask "aldente"
 
 cask "slack"
+
+cask "homebrew/cask-drivers/logitech-options"
