@@ -41,3 +41,4 @@ cask "aldente"
 cask "slack"
 
 cask "homebrew/cask-drivers/logitech-options"
+cask "homebrew/cask-drivers/logitech-firmwareupdatetool"
