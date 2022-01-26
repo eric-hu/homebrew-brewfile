@@ -14,6 +14,8 @@ brew "the_silver_searcher"
 brew "asdf"
 brew "postgresql"
 brew "gh"
+# Display files and directories as a tree
+brew "tree"
 
 # 'brew install --cask'
 cask "google-chrome"
