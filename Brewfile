@@ -46,3 +46,5 @@ cask "docker"
 
 cask "homebrew/cask-drivers/logitech-options"
 cask "homebrew/cask-drivers/logitech-firmwareupdatetool"
+
+cask "dropbox"
