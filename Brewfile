@@ -48,3 +48,15 @@ cask "homebrew/cask-drivers/logitech-options"
 cask "homebrew/cask-drivers/logitech-firmwareupdatetool"
 
 cask "dropbox"
+
+cask "cyberduck"
+
+cask "vlc"
+
+# Home media server
+cask "jellyfin"
+
+# Ethereum
+tap "ethereum/ethereum"
+brew "solidity"
+
