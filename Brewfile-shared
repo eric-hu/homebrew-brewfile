@@ -23,20 +23,17 @@ cask "firefox"
 
 cask "discord"
 cask "iterm2"
+cask "authy"
 cask "bitwarden"
 cask "visual-studio-code"
 
-# Tiling window manager
-# Deprecated. Consider alternatives Hammerspoon or https://github.com/rxhanson/Rectangle
-# Cycle window sizes using:
-#   defaults write org.shiftitapp.ShiftIt multipleActionsCycleWindowSizes YES
-cask "shiftit"
+cask "rectangle"
+cask "gyazo"
 
 cask "zoom"
 
 # Clipboard manager
 cask "flycut"
-
 # Battery life manager
 cask "aldente"
 
@@ -56,7 +53,8 @@ cask "vlc"
 # Home media server
 cask "jellyfin"
 
-# Ethereum
-tap "ethereum/ethereum"
-brew "solidity"
+# Mechanical keyboard firmware
+cask "via"
 
+# VPN
+cask "windscribe"

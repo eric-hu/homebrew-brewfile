@@ -1,0 +1,7 @@
+cask 'ledger-live'
+
+cask 'gnucash'
+
+cask 'steam'
+
+

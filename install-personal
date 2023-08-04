@@ -1,0 +1,4 @@
+cat Brewfile-personal Brewfile-shared > Brewfile
+
+brew bundle --file=~/.homebrew-brewfile/Brewfile --describe
+
