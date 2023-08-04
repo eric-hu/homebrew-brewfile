@@ -531,6 +531,12 @@
         "options": {
           "full_name": "steam"
         }
+      },
+      "battle-net": {
+        "version": "1.18.5.3106",
+        "options": {
+          "full_name": "battle-net"
+        }
       }
     }
   },
