@@ -17,6 +17,8 @@ brew "gh"
 # Display files and directories as a tree
 brew "tree"
 
+brew "java"
+
 # 'brew install --cask'
 cask "google-chrome"
 cask "firefox"
